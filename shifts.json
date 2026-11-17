@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "employee": "Alice",
+    "role": "Server",
+    "day": "Monday",
+    "start": "11:30",
+    "end": "15:30"
+  },
+  {
+    "id": 2,
+    "employee": "Marc",
+    "role": "Chef",
+    "day": "Monday",
+    "start": "10:00",
+    "end": "16:00"
+  },
+  {
+    "id": 3,
+    "employee": "Claire",
+    "role": "Host",
+    "day": "Tuesday",
+    "start": "18:00",
+    "end": "23:00"
+  },
+  {
+    "id": 4,
+    "employee": "Lucas",
+    "role": "Server",
+    "day": "Wednesday",
+    "start": "11:30",
+    "end": "15:30"
+  }
+]
